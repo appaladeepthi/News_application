@@ -40,3 +40,4 @@ Contributions are welcome! To contribute to the project, follow these steps:
 5. Create a pull request.
 # news_application
 # NEWS
+# News_application
